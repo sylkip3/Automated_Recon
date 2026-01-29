@@ -1,0 +1,1 @@
+I developed a Python-based File Integrity Monitor (FIM) to detect unauthorized changes to sensitive files using SHA-256 hashing. The script alerted on a modification to tarus_passwords.txt, demonstrating real-time detection of potential tampering.
